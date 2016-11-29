@@ -5,8 +5,9 @@ import javax.swing.JOptionPane;
 public class FakeClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("hello world");
+
+		Syste.out.println("this is awesome!");
 		
 		for(int i = 99; i >= 0; i--){
 			System.out.println("\n===================================================");
@@ -18,6 +19,7 @@ public class FakeClass {
 		}
 		
 		JOptionPane.showMessageDialog(null, "This project is better than nails in my eyes!");
+
 	}
 
 }
