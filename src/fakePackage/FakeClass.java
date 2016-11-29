@@ -7,7 +7,7 @@ public class FakeClass {
 	public static void main(String[] args) {
 		System.out.println("hello world");
 
-		Syste.out.println("this is awesome!");
+		System.out.println("this is awesome!");
 		
 		for(int i = 99; i >= 0; i--){
 			System.out.println("\n===================================================");
